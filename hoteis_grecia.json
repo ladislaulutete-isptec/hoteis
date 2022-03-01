@@ -1,0 +1,13 @@
+[{"cidade": "Grecia", 
+    "hoteis":
+    [
+        {"nome":"Niche Hotel Athens", "localizacao":"Athens City Centre", "distancia":"0.7 miles to city centre","img":"grecia_h1.jpg",
+                "quartos":[{"opcao":"niche High Floor Room", "preco":116, "img":"grecia_h1_room1.jpg"},
+                           {"opcao":"Compact niche Room", "preco":129, "img":"grecia_h1_room2.jpg"}
+                          ]
+        }
+    ]
+    
+    }
+
+]

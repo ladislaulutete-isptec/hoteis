@@ -1,0 +1,15 @@
+[{"cidade": "Dubai", 
+    "hoteis":
+    [
+        {"nome":"Jumeirah Mina A Salam", "localizacao":"All Sufouh 1", "distancia":"12 miles to city centre","img":"dubai_h1.jpg",
+                "quartos":[{"opcao":"Arabian Deluxe 5", "preco":1.840, "img":"dubai_h1_room1.jpg"},{"opcao":"Ocean Deluxe", "preco":1.906, "img":"dubai_h1_room2.jpg"}]
+        },
+        {"nome":"Hilton Garden inn Dubai Al Muraqabat", "localizacao":"Deira", "distancia":"1.0 miles to city centre","img":"dubai_h2.jpg",
+                "quartos":[{"opcao":"Room, 1 King Bed", "preco":194, "img":"dubai_h2_room1.jpg"},{"opcao":"Twin Room", "preco":194, "img":"dubai_h2_room2.jpg"}]
+        }
+            
+    ]
+    
+    }
+
+]
